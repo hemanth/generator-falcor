@@ -1,0 +1,17 @@
+{
+  "version": "0.0.0",
+  "name": "my-falcor-app",
+  "description": "Simple faclor app",
+  "dependencies": {
+    "express": "^4.13.3",
+    "falcor-express": "^0.1.2",
+    "falcor-router": "^0.2.9"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
